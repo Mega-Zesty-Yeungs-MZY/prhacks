@@ -1,4 +1,4 @@
-# Hacks
+# Hacks - big idea 2 group
  > Read the README file for directions on hacks. Below is an example of how the hacks could look like. 
   ----------------------
   ### Example hacks:
