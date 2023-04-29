@@ -6,7 +6,7 @@
   2. we didn't know bianery hacks
   3. we also didn't know Logic gates. 
 
-  <a href="">Link to group review ticket</a>
+  <a href="https://github.com/KKcbal/amongus/issues/2">Link to group review ticket</a>
   ------------------
 
   ### *Remember to commit changes and create a pull request*
