@@ -6,7 +6,7 @@
   2. we didn't know ____
   3. we also didn't know ____
 
-  <a href="">Link to group review ticket</a>
+  <a href="https://github.com/vardaansinha/devops/issues/23">Link to group review ticket</a>
   ------------------
 
   ### *Remember to commit changes and create a pull request*
